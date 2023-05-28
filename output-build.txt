@@ -1,0 +1,8 @@
+﻿빌드 시작...
+1>------ 빌드 시작: 프로젝트: Peach Black Tea, 구성: Debug x64 ------
+1>뀨.cpp
+1>C:\Users\sangw\source\repos\Peach Black Tea\Peach Black Tea\뀨.cpp(10,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+1>Peach Black Tea.vcxproj -> C:\Users\sangw\source\repos\Peach Black Tea\x64\Debug\Peach Black Tea.exe
+1>"Peach Black Tea.vcxproj" 프로젝트를 빌드했습니다.
+========== 빌드: 1개 성공, 0개 실패, 0개 최신 상태, 0개 건너뜀 ==========
+========== 빌드이(가) 8:52 PM에 시작되었고 02.343 초이(가) 소요됨 ==========
